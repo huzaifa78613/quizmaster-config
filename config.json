@@ -1,7 +1,8 @@
 {
-  "apiKeyOCR": "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",
-  "apiKeyChat": "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",
+  "apiKeyOCR": "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",
+  "apiKeyChat": "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",
   "apiEndpoint": "https://api.groq.com/openai/v1/chat/completions",
   "visionModel": "meta-llama/llama-4-scout-17b-16e-instruct",
   "textModel": "llama-3.3-70b-versatile"
+
 }
